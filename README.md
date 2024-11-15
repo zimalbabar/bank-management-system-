@@ -6,8 +6,6 @@ Encapsulation
 Abstraction
 Polymorphism
 Abstract classes
-Try and Catch
-Filing
 Inheritance
 Composition
 Friend Classes
