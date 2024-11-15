@@ -2,13 +2,13 @@
 
 A project based on OOP principles and Techniques:
 
-Encapsulation
-Abstraction
-Polymorphism
-Abstract classes
-Inheritance
-Composition
-Friend Classes
+1. Encapsulation
+2. Abstraction
+3. Polymorphism
+4. Abstract classes
+5. Inheritance
+6. Composition
+7. Friend Classes
 
 
 **Important :**
