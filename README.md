@@ -12,7 +12,6 @@ This **Banking Management System (BMS)** is a simple, console-based application 
 - **Transactions**: Transfer funds between accounts.
 - **PIN Security**: Verifies PIN with three attempts for secure access.
 
----
 
 ## File Structure
 
@@ -22,7 +21,6 @@ This **Banking Management System (BMS)** is a simple, console-based application 
 - `donation.txt`: Records donations.
 - `main.cpp`: Contains all code for account management and transactions.
 
----
 
 ## How to Use
 
@@ -36,7 +34,6 @@ This **Banking Management System (BMS)** is a simple, console-based application 
 4. **Donations**:
    - Donate funds to charitable causes, logged in `donation.txt`.
 
----
 
 ## Key Functions
 
@@ -47,7 +44,6 @@ This **Banking Management System (BMS)** is a simple, console-based application 
 5. **`withdrawal()`**: Logs withdrawals in `withdrawal.txt`.
 6. **`donation()`**: Handles donations and logs them in `donation.txt`.
 
----
 
 ## Requirements
 
@@ -55,7 +51,6 @@ This **Banking Management System (BMS)** is a simple, console-based application 
 - **Files**: The following will be generated/used:
   - `account.txt`, `deposit.txt`, `withdrawal.txt`, `donation.txt`.
 
----
 
 ## Sample Usage
 
@@ -64,13 +59,11 @@ This **Banking Management System (BMS)** is a simple, console-based application 
 3. **Deposits/Withdrawals**: Add or remove money from accounts securely.
 4. **Donations**: Donate to specified causes with recipient and amount logged.
 
----
 
 ## Code File
 
 - **`main.cpp`**: The core file implementing account management, transactions, and file operations.
 
----
 
 ## Future Enhancements
 
